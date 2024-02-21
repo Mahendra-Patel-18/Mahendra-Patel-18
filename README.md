@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahendra Patel</h1>
-- 🔭 I’m currently working on **WorkerHiring**
+- 🔭 I’m currently working on **WorkerHiring** Project 
 
 - 🌱 I’m currently learning **PHP**
 
